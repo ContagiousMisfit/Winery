@@ -2,7 +2,7 @@
 
 ![winery](https://github.com/user-attachments/assets/de760c99-7fe7-49f1-8b34-5f85eca9480c)
 
-Winery company cross platform application written in flutter
+Winery cross platform application written in flutter
 <h3>Technologies</h3>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
